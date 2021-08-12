@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;800&display=swap');
+
+*{ box-sizing: border-box;}
+
+body { font-family: 'Montserrat', sans-serif;}
+
+h1 { font-weight: 800; }
+
+nav img { max-width: 190px; height: auto;}
+.navbar .navbar-expand-lg .navbar-light .bg-light{ background-color: #4C1D90; }
+
+nav a { color: white!important; font-weight: 800;}
+
+.bg-light {background-color: #4C1D90!important;}
+
+.contenedor { background-image: url(https://lh4.googleusercontent.com/5jtBaHRItJMUQ3X2A9f4EgFwRQC37-YybLsG-SJtC_aiTK9CS4nZIG5JJLzSSN8duuunxS7K8VAXw4rOJwtk01k=w16383); background-size: cover; height: 100vh; background-position: center;  background-repeat: no-repeat; background-attachment: fixed;}
+
+
+
+.speakers { background-color:#342791; color:white; padding:3em; overflow: hidden;}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+  
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .card .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+.card button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  .card button:hover, a:hover {
+    opacity: 0.7;
+  }
+
+
+
